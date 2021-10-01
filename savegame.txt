@@ -1,0 +1,10 @@
+Model.Player@552e050e
+5
+Model.ChessPiece@2a711584/Model.ChessPiece@5d88d3ad/Model.ChessPiece@9d38444/Model.ChessPiece@127f1b04/Model.ChessPiece@3080e1fa/Model.ChessPiece@2b0e59fc/Model.ChessPiece@3eea097d/
+NULL/NULL/NULL/NULL/NULL/NULL/Model.ChessPiece@5427929f/
+Model.ChessPiece@631f26d0/NULL/Model.ChessPiece@3a8742f6/NULL/Model.ChessPiece@5448153a/NULL/NULL/
+NULL/NULL/NULL/NULL/NULL/NULL/NULL/
+NULL/NULL/NULL/NULL/NULL/NULL/NULL/
+NULL/NULL/Model.ChessPiece@3c93d646/NULL/Model.ChessPiece@26a04ea2/NULL/NULL/
+Model.ChessPiece@26b03872/NULL/NULL/NULL/NULL/NULL/Model.ChessPiece@32c5185b/
+Model.ChessPiece@10c6c9a3/Model.ChessPiece@34b75047/Model.ChessPiece@13638d0b/Model.ChessPiece@9fe58fc/Model.ChessPiece@2fd303b1/Model.ChessPiece@21684b64/Model.ChessPiece@2eec9197/
